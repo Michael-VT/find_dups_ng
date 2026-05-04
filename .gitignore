@@ -1,4 +1,11 @@
+find_dups_rust/target/release/
+find_dups_python/__pycache__/
+sort_dup_*.csv
+analytics_*.json
 *.txt
 *.csv
 *.sh
 report_*.txt
+duprm_*.sh
+duplicates_*.csv
+
