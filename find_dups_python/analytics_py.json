@@ -1,0 +1,62 @@
+{
+  "summary": {
+    "total_files": 12,
+    "total_size_bytes": 307350,
+    "duplicate_files": 5,
+    "duplicate_size_bytes": 204860,
+    "recoverable_bytes": 204860,
+    "scan_duration_seconds": 0.386
+  },
+  "by_category": {
+    "docs": {
+      "count": 9,
+      "total_bytes": 150,
+      "duplicate_count": 3,
+      "duplicate_bytes": 60,
+      "extensions": {
+        ".txt": {
+          "count": 9,
+          "total_bytes": 150,
+          "duplicate_count": 3,
+          "duplicate_bytes": 60
+        }
+      }
+    },
+    "firmware": {
+      "count": 3,
+      "total_bytes": 307200,
+      "duplicate_count": 2,
+      "duplicate_bytes": 204800,
+      "extensions": {
+        ".bin": {
+          "count": 3,
+          "total_bytes": 307200,
+          "duplicate_count": 2,
+          "duplicate_bytes": 204800
+        }
+      }
+    }
+  },
+  "by_extension": {
+    ".txt": {
+      "count": 9,
+      "total_bytes": 150,
+      "duplicate_count": 3,
+      "duplicate_bytes": 60
+    },
+    ".bin": {
+      "count": 3,
+      "total_bytes": 307200,
+      "duplicate_count": 2,
+      "duplicate_bytes": 204800
+    }
+  },
+  "size_distribution": {
+    "0_bytes": 0,
+    "under_1kb": 9,
+    "1kb_100kb": 0,
+    "100kb_1mb": 3,
+    "1mb_100mb": 0,
+    "over_100mb": 0
+  }
+}
